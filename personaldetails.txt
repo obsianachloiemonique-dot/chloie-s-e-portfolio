@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Details</title>
+<style type="text/css">
+img, video {border: 5px dotted #bf2a52;}
+.ind{font-weight:bold;font-color:#bf2a52;}
+h1, h2{background-color:#B3EC5D; font-weight:bold; color:beige;text-align:center;text-shadow: 2px 2px 5px red;}
+p{background-color:#B3EC5D; color:#bf2a52;}
+</style>
+</head>
+<body bgcolor="d96c80" style="font-family:Lucida Console;">
+<h1 style="background-color:#B3EC5D; font-weight:bold; color:beige;text-align:center;text-shadow: 2px 2px 5px red;"> ALL ABOUT ME!</h1>
+<h2> Personal details: </h2>
+<p><span class="ind">Name:</span> Chloie Monique C. Obsiana</p>
+<p><span class="ind">Age:</span> 14</p>
+<p><span class="ind">Birthday:</span> January 14, 2011</p>
+<p><span class="ind">Favorites:</span> </p>
+<ul style="background-color:#B3EC5D; color:#bf2a52;">
+<li>Food: peanut buttered shrimp, cookies n cream ice cream, fresh milk, hopiang baboy, watermelon and leafy vegetables </li>
+<li>Sport: volleyball </li>
+<li>Flower: Peonies</li>
+<li>Color: red and blue</li>
+</ul>
+<img src="me.jfif" alt="me" width="200" height="300" align="left"><img src="youngme.jfif" alt="me" width="400" height="300" align="right">
+<video width="320" height="240" align="center" controls>
+  <source src="mevideo.mp4" type="video/mp4">
+</video>
+<h2> Circle of friends:</h2>
+<p><span class="ind">Socialization:</span></p> 
+<p><span class="ind">Fairdelity</span></p> 
+<p>Formerly known as connectability; we all met through being classmates with each other, then we gradually got closer with each other, and as time pass, the circle grew. Whenever i have problems in school or personal problems that i cant solve on my own, I vent to them and asks for their advice and seeks help from them. Even though our circle got seperated and others are in different section, we still hang out from time to time. This includes me, Jadee, Taranee, Grace, Riley, Keisha, Aya, Dash, Jayzel, Kiel R., Kiel A., Cyruz, Emman, Martin and Lorraine.
+</p>
+<img src="friendschool1.jfif" alt="me" width="350" height="250" align="right"> <video width="320" height="240" align="left" controls>
+  <source src="friendschoolvideo.mp4" type="video/mp4">
+</video>
+<p><span class="ind">Childhood friends</span></p> 
+<p>They are the friends that i grew up with, the ones who have been around since i was a child, and now our bond is still as strong as ever. My childhood friends include ate Shane, Julie, Eunice, and Hannah. Despite being in different grade levels, we still are close with eachother. When im in trouble or someone is insulting me, they always stand up and fight for me.
+</p>
+<img src="friends.jfif" alt="me" width="350" height="250" align="right"> <video width="320" height="240" align="left" controls>
+  <source src="friendsvideo.mp4" type="video/mp4">
+</video>
+<h2><span class="ind">My Family:</span></h2>
+<p>Im the second child in a family with 3 kids. We have 6 dogs and 5 cats, so our house is quite chaotic. My dad is a retired policeman, while my mom has a karinderya and they also sell vegetables and fruits, but she graduated in computer science. My ate is in grade 11, and she goes to Perpetual university in Las Pinas, while my brother is in grade 5 and he goes to Pamplona elem school unit 1. We had a reunion on my father's side on my lola's birthday this year. I met my cousins, titas, titos, tita-lolas and tito-lolos, and despite being far from each other, we are very close and got to catch up with everyone. Some of my cousins also live in the same barangay as us, so we are very close and are always together. And we created a group chat with our lola, wherein every apo is included and we video call almost everyday!
+</p>
+<img src="family1.jfif" alt="me" width="350" height="250" align="right"> <img src="family2.jfif" alt="me" width="350" height="250" align="right"> <video width="320" height="240" align="left" controls>
+  <source src="familyvideo.mp4" type="video/mp4">
+</body>
+</html>
